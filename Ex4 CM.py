@@ -1,0 +1,6 @@
+n = int(input("n = "))
+print(n, " m = ", n * 100, " cm")
+print(n, " kg = ", n * 10 ** 6, " mg")
+print(n, " ani = ", n * 12, " luni")
+print(n, " ani = ", n * 52, " săptămâni")
+print(n, " ani = ", n * 365, " zile")
