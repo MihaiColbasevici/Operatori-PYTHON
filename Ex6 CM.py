@@ -10,4 +10,4 @@ suma = 0
 for cif in str(num) :
   suma = suma + int(cif)
 print("Suma cifrelor lui", num, "va fi egală cu ", suma)
-print("Răsturnatul lui ", num, "este", num[::1])
+print("Răsturnatul lui ", num, "este", num[::-1])
